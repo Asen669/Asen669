@@ -1,5 +1,6 @@
 # League of legends champions database
 - ## Elevator pitch
+- ### Imagine a one-stop interactive website tailored for League of Legends enthusiasts and competitive players alike! Our Champions Database provides detailed, up-to-date information on every champion, including stats, abilities, builds, and counters. With user-friendly search tools, dynamic comparisons, and strategy guides crafted by top players, you can master your favorite champions and climb the ranks. Whether you’re a newcomer exploring champions or a seasoned pro refining your strategy, our site empowers players with data-driven insights, personalized recommendations, and engaging community content—all in a sleek, responsive design.
 - 
 
 <!--
