@@ -2,8 +2,14 @@
 - ## Elevator pitch
 - ### Imagine a one-stop interactive website tailored for League of Legends enthusiasts and competitive players alike! Our Champions Database provides detailed, up-to-date information on every champion, including stats, abilities, builds, and counters. With user-friendly search tools, dynamic comparisons, and strategy guides crafted by top players, you can master your favorite champions and climb the ranks. Whether you’re a newcomer exploring champions or a seasoned pro refining your strategy, our site empowers players with data-driven insights, personalized recommendations, and engaging community content—all in a sleek, responsive design.
 - ## Design
-- 
-
+- ![image](https://github.com/user-attachments/assets/7b8429b9-97c4-4ce0-bba4-f2a8b30ce198)
+- ## Technologies
+- ### HTML - Uses correct HTML structure for the application. Two pages:Login page for user authentication.Database page displaying champions data in a table with search and counters.Hyperlinks to external references for champion-specific details.
+- ### CSS - Styles the interface for mobile and desktop devices with responsive layouts.Good use of whitespace, color schemes, and contrast for accessibility and readability.
+- ### React - Manages user interactions, data display, and search/filter functionality for the champions.
+- ### Service - User Login/Authentication.Retrieving champions data (including name, role, win rate, etc.)
+- ### DB/Login - Stores users, champions, and their stats in a database.Securely handles user credentials for login and prevents unauthorized data access.
+- ### WebSocket - Enables real-time updates of win rates, pick rates, and ban rates across users.
 <!--
 **Asen669/Asen669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
